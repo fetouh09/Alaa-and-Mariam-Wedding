@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alaa and Mariam//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:alaa-mariam-20261217-greenplaza@wedding-invitation.local
+DTSTAMP:20261118T120000Z
+DTSTART:20261217T170000Z
+SUMMARY:Alaa & Mariam's Wedding
+LOCATION:Green Plaza
+DESCRIPTION:Celebrate the wedding of Alaa & Mariam! The celebration begins at 7:00 PM Cairo time. Directions: https://maps.app.goo.gl/FpPK7cdsGezbfDVK6
+URL:https://maps.app.goo.gl/FpPK7cdsGezbfDVK6
+END:VEVENT
+END:VCALENDAR
